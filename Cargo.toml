@@ -2,6 +2,10 @@
 name = "theora-rs-sys"
 version = "0.1.0"
 edition = "2021"
+description = "binding to c library libtheora"
+license-file = "COPYING"
+repository= "https://github.com/hungl6844/theora-rs-sys"
+readme = "README.md"
 
 [dependencies]
 
